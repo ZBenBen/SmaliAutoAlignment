@@ -1,4 +1,4 @@
-Auther:      wenzhaoyan
+Auther:      ZBenBen
 Create Date: 2013-12-06
 
 
@@ -7,15 +7,15 @@ Create Date: 2013-12-06
 	
 脚本运行说明：
 	命令行运行方式为
-	python SmaliAlignment.py -a Android_Smali -c Color_Smali -o Out_Smali
+	python SmaliAlignment.py -a Android_Smali -c Your_Smali -o Out_Smali
 	-a Android的smali目录
-	-c Color的smali目录
+	-c Your的smali目录
 	-o 最终输出目录(该目录必须为新的，不能已经存在)
 	
 	目录可以输入绝对地址 如F:\smali\Android_Smali 也可以输入直接输入脚本同目录下的相对地址 如；Android_Smali
 	注意：输入的目录结尾不需要加入 \   
 	
-	脚本会生成log文件Smali_Alignment_Log.txt，里面可以查看每次运行时改动的Color_Smali文件
+	脚本会生成log文件Smali_Alignment_Log.txt，里面可以查看每次运行时改动的Your_Smali文件
 	
 	
 VersionInfo：

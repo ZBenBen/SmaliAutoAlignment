@@ -1,5 +1,7 @@
 Auther:      ZBenBen
-Create Date: 2013-12-06
+
+批量扫描指定的安卓原版smali目录和your修改版本的smali目录
+将your修改版本中的smali文件中函数安装android原版smali函数进行排序对齐，提高smali移植准确性与对安卓的兼容性
 
 
 脚本文件说明：
